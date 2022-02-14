@@ -21,13 +21,20 @@ body {
   box-sizing: border-box;
   background: var(--body-bg);
 }
+h3 {
+  font-size: 22px;
+}
+h3:hover {
+  cursor: pointer;
+  color: var(--eth-color);
+}
 img {
   border-radius: 1em;
 }
 p {
   font-size: 18px;
 }
-.card {
+main {
   display: flex;
   flex-direction: column;
   max-width: 20em;
@@ -71,7 +78,10 @@ p {
     align-items: center;
     justify-content: center;
   }
-
+  a:hover {
+    cursor: pointer;
+    color: var(--eth-color);
+  }
   border-top: 1px solid var(--text-color);
   padding-top: 1em;
   color: var(--text-color);
