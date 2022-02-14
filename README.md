@@ -33,8 +33,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [](https://nft-preview-card-component-main-glsarm.vercel.app/)
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+
+- Live Site URL: [Live](https://nft-preview-card-component-main-glsarm.vercel.app/)
 
 ### Built with
 
