@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-by-gene-lorenz-24YDcPIjB)
 
 - Live Site URL: [Live](https://nft-preview-card-component-main-glsarm.vercel.app/)
 
